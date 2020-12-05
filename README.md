@@ -6,4 +6,6 @@ Este curso é gratuito e está disponível no Linkedin, os endereços para as au
 
 2ª Aula - <a href="https://www.linkedin.com/pulse/pyspark-primeiro-exemplo-fernando-anselmo/?trackingId=49k6TPSETAm%2FD1AD80GTmg%3D%3D">Primeiro Exemplo</a>
 
+3ª Aula - <a href="https://www.linkedin.com/pulse/pyspark-contar-palavras-fernando-anselmo/?published=t">Segundo Exemplo</a>
+
 Fernando Anselmo
